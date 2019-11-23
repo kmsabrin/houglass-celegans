@@ -7,8 +7,8 @@ The hourglass organization of the connectome suggests that _C. elegans_ has some
 the _information bottleneck_ of the system, balancing the representation accuracy and compactness (complexity) of the given  sensory information.
 
 * Last update: November-2019 
-* Corresponding Paper: [The hourglass organization of the _{Caenorhabditis elegans}](https://www.biorxiv.org/content/biorxiv/early/2019/04/07/600999.full.pdf)
-* [PLOS Computational Biology Journal] (https://journals.plos.org/ploscompbiol) Accepted for publication
+* Corresponding Paper: [The hourglass organization of the _Caenorhabditis elegans](https://www.biorxiv.org/content/biorxiv/early/2019/04/07/600999.full.pdf)
+* [PLOS Computational Biology Journal](https://journals.plos.org/ploscompbiol) Accepted for publication
 * [Author Homepage](http://sites.google.com/site/kmsabrin)
 
 #### 0. Requirements

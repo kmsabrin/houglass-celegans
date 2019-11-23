@@ -4,12 +4,14 @@
 
 * Last update: November-2019 
 * Corresponding Paper: [The hourglass organization of the _Caenorhabditis elegans_](https://www.biorxiv.org/content/biorxiv/early/2019/04/07/600999.full.pdf)
-* Accepted for publication in [PLOS Computational Biologu](https://journals.plos.org/ploscompbiol)
+* Accepted for publication in [PLOS Computational Biology](https://journals.plos.org/ploscompbiol)
 * [Author Homepage](http://sites.google.com/site/kmsabrin)
+
 
 #### 0. Requirements
 
 * Java 7 or greater
+
 
 #### 1. How to Run
 ```
@@ -26,7 +28,7 @@ The ouput lists the core nodes for the given path coverage threshold (0.9 above)
 The output from the above run with 'all_paths_toy' is following:
 
 
-#### 6. Generating Paths
+#### 3. Generating Paths
 Given a network, we want to generate paths that are at most _k_ hops larger than the shortest paths between each pair of source-target nodes. If _k=0_, we get the all possible shortest paths between each pair of source-target nodes and if _k=2_, then for each pair of source-target nodes, we get all possible paths between them that are at most _2_ hops larger than their shortest path hop distance. Note that the network does not have to be acyclic. 
 
 To run:

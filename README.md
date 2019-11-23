@@ -25,7 +25,7 @@ path_file consists of source-target paths one per line, with node identifiers se
 
 The ouput lists the core nodes for the given path coverage threshold (0.9 above), followed by the H-score.
 
-The output from the above run with 'all_paths_toy' is following:
+The output from the above run with 'all_paths_toy' as the path file is following:
 
 
 #### 3. Generating Paths
@@ -38,6 +38,8 @@ java HourglassAnalysis edge_list source_list target_list +k
 ```
 
 edge_list, source_list and target_list are respectively connections between neurons, sensory neurons and motor neurons as described in the paper. k can take any value >= 0. Note that the '+' is required in the fourth input parameter. A output file wil be created named 'paths.txt' containing all paths according to the specification above.
+
+For a generale description of the dependency networks, source, target etc. please refer to the original [Hourglass Analysis Framework](https://arxiv.org/pdf/1605.05025.pdf) paper.
 
 For the given sample network above if run the following,
 ```

@@ -3,7 +3,7 @@
 
 
 * Last update: November-2019 
-* Corresponding Paper: [The hourglass organization of the _Caenorhabditis elegans_](https://www.biorxiv.org/content/biorxiv/early/2019/04/07/600999.full.pdf)
+* Corresponding Paper: [The hourglass organization of the _Caenorhabditis elegans_](https://www.biorxiv.org/content/biorxiv/early/2019/12/05/600999.full.pdf)
 * Accepted for publication in [PLOS Computational Biology](https://journals.plos.org/ploscompbiol)
 * [Author Homepage](http://sites.google.com/site/kmsabrin)
 

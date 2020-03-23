@@ -299,7 +299,6 @@ public class HourglassAnalysis {
           pw.print(s + " ");
         }
         pw.println();
-        return;
       }
 
       if (!serves.containsKey(node)) {
@@ -326,6 +325,7 @@ public class HourglassAnalysis {
           ArrayList<String> pathNodes = new ArrayList();
           pathNodes.add(s);
           traverseAllPathsHelper(s, r, sourceTargetPairShortestPath.get(s + "#" + r) + 1, pathNodes, pw, hopKount);
+	  break;	
         }
       }
       pw.close();
